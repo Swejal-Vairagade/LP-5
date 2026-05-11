@@ -5,6 +5,7 @@
 ### https://chatgpt.com/share/6a010ec0-39d8-83ec-98c6-fb17109279c9
 ### code theory
 ### https://chatgpt.com/share/6a0145a6-65d8-83a5-a2eb-badaa3fe5682
+### https://chatgpt.com/share/6a0156e2-3760-8323-978d-ef6df5a9959f
 ### Practical No: 3
 
 Title: Implementation of Min, Max, Sum and Average using Parallel Reduction
